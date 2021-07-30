@@ -4,8 +4,8 @@ public class git3
 {
 	public static void main(String[] args) 
 	{
-		System.out.println("repository 3");
-		System.out.println(" pull repository 3");
+		System.out.println("repository 4");
+		System.out.println(" pull repository 4");
 	}
 
 }
