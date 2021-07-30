@@ -6,6 +6,7 @@ public class git4
 	{
 		System.out.println("repository 3");
 		System.out.println(" pull repository 3");
+		System.out.println(" upadate");
 	}
 
 }
